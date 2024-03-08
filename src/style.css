@@ -1,0 +1,19 @@
+.square{
+    height: 10vw;
+    width: 10vw;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0px;
+    font-size: 5vw;
+}
+.board{
+    display: flex;
+}
+.status{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+    font-weight: 700;
+}
